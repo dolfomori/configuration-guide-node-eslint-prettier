@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Eslint + Prettier + React
+Eslint + Prettier + Node
 </h1>
 
 <h3 align="center">   
